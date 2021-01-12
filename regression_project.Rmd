@@ -100,7 +100,7 @@ g
 
 Fig 2. Model Diagnostic Plots
 
-```{r}
+```{r, fig.height=8, fig.width=12}
 par(mfrow= (c(2,2)))
 plot(fitl_best)
 ```
